@@ -29,10 +29,10 @@ pip install --upgrade robotframework-requests
 To run the test, navigate to the project directory in your terminal and execute the following command:
 
 ```
-robot api_test.robot
+robot request_test.robot
 ```
 
-Replace `api_test.robot` with the path to your Robot Framework test file, if different.
+Replace `request_test.robot` with the path to your Robot Framework test file, if different.
 
 ## Test Case Overview
 
